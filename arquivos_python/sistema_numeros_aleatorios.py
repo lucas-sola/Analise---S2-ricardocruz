@@ -1,5 +1,5 @@
 import random
-
+print("Olá, tudo bem?")
 # Função principal do jogo de adivinhação
 def jogo_adivinhaçao():
     print("Bem-vindo ao Jogo de Adivinhação!")
